@@ -5,7 +5,7 @@ botaoFormato.style.marginTop = '20px';
 botaoFormato.style.padding = '10px';
 botaoFormato.style.backgroundColor = '#282c36';
 botaoFormato.style.color = 'yellow';
-// sadasdasda
+
 document.querySelector('.container').appendChild(botaoFormato)
 
 let formato24h = true;
